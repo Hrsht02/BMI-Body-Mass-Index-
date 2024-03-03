@@ -1,0 +1,3 @@
+This is my first repository on this platform. I programme this as a one of the feature in my upcoming project (Capstone  Project with group of 5 members). I coded this in Python as I usually use this language only. 
+In this Programme, I have define the different BMI range in which when you give the required data that is Wieght in Kilogram and Height in Meter, it will the give BMI and health condition along with the BMI range chart that I taken from Google.
+The Body Mass Index (BMI) is a measure that uses your height and weight to work out if your weight is healthy. BMI takes into account natural variatios in body shape, giving a healthy weight range for a particular height. The Formula used to calculate the BMI is,  BMI = (weight in Kilogram)/(Height in Meter)^2
